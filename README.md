@@ -1,2 +1,2 @@
 # zen-garden
-Activity from Zoom class no 2.
+Bonus activity from 2nd lesson.
