@@ -1,2 +1,9 @@
-# zen-garden
-Bonus activity from 2nd lesson.
+# Zen Garden
+
+## Description
+
+FRONT-END WEB DEVELOPMENT BOOTCAMP
+
+Lesson 01.2 
+
+Activity: Git Add, Commit, Push.
